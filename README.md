@@ -19,7 +19,7 @@
   ![im2](https://user-images.githubusercontent.com/106400520/171494837-1c69d6f7-d0da-4c2d-ac20-6761ec0fdab7.png)
   
   
-  <h2>Imagem com o Resultado<h2>
+  <h2>Imagem com o Resultado.<h2>
 
 
 ![im3](https://user-images.githubusercontent.com/106400520/171494956-70f4c381-a395-4329-a523-d120b58daf45.png)
